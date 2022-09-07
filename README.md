@@ -1,5 +1,5 @@
 - 👋 Hi Coders, I’m Prince Mandal.
-- 👀 I’m interested in developing and scaling webapps and complex appliations.
+- 👀 I’m interested in developing and scaling webapps and standalone appliations.
 - 🌱 I’m currently learning Golang and Cloud Computing.
 - 💞️ I’m looking to collaborate on large scale projects.
 - 📫 For any proposals and request mail me at prince.mandal7861@gmail.com
