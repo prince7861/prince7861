@@ -1,4 +1,4 @@
-- 👋 Hi Coders, I’m Prince Mandal.
+- 👋 Hi Coders.
 - 👀 I’m interested in developing and scaling webapps and standalone appliations.
 - 🌱 I’m currently learning Golang and Cloud Computing.
 - 💞️ I’m looking to collaborate on large scale projects.
